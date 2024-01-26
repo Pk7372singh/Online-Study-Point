@@ -27,7 +27,7 @@ This project is an Online Study Point website designed to provide a user-friendl
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/online-study-point.git
+git clonehttps://github.com/Pk7372singh/Online-Study-Point.git
 ```
 
 2. Open the project in your preferred code editor.
